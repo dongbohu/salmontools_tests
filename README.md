@@ -3,14 +3,14 @@ https://github.com/COMBINE-lab/SalmonTools
 
 ### Double reads test case:
 
-1. **double_input/reads_1.fastq**:
-copied from https://github.com/COMBINE-lab/SalmonTools/blob/master/sample_data/reads_1.fastq
+1. **double_input/reads_1.fastq**: copied from [SalmonTools sample_data]
+(https://github.com/COMBINE-lab/SalmonTools/blob/master/sample_data/reads_1.fastq)
 
-2. **double_input/reads_2.fastq**:
-copied from https://github.com/COMBINE-lab/SalmonTools/blob/master/sample_data/reads_2.fastq
+2. **double_input/reads_2.fastq**: copied from [SalmonTools sample_data]
+(https://github.com/COMBINE-lab/SalmonTools/blob/master/sample_data/reads_2.fastq)
 
-3. **double_output/aux-info/unmapped_names.txt**:
-copied from https://github.com/COMBINE-lab/SalmonTools/blob/master/sample_data/unmapped_random.txt
+3. **double_output/aux-info/unmapped_names.txt**: copied from [SalmonTools sample_data]
+(https://github.com/COMBINE-lab/SalmonTools/blob/master/sample_data/unmapped_random.txt)
 
 4. **expected_double_output/unmapped_by_salmon_1.fa**:
 expected output file of `salmontools`, based on input files #1, #2, and #3.
